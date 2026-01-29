@@ -45,6 +45,7 @@ app.*.map.json
 /android/app/release
 
 # Backend
-main.py
+# main.py  <-- Keeping commented out or removed to allow tracking
+.env
 temp_*
 __pycache__/
